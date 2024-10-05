@@ -1,3 +1,4 @@
+![hacktober_banner](https://github.com/user-attachments/assets/706fa091-ee3e-4572-bda3-67a42aeb16a6)
 
 # NLPDev Task Contributions
 
